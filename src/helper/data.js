@@ -18,9 +18,9 @@ export const data = [
   {
     listName: 'Marshall Island',
     values: [
-      { name: 'Vikas Singh', checked: false },
-      { name: 'Vikas Singh', checked: false },
-      { name: 'Vikas Singh', checked: false },
+      { name: 'Coding Ninjas', checked: false },
+      { name: 'Coding Ninjas', checked: false },
+      { name: 'Coding Ninjas', checked: false },
     ],
   },
 ];
